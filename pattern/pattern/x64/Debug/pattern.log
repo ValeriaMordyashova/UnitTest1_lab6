@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2116,5): warning : The referenced project '..\UnitTest1_lab6\UnitTest1_lab6.vcxproj' does not exist.
+  pattern.cpp
+C:\Users\lerus\Documents\студент\3 курс\курсовая и трпо\трпо\pattern\pattern\pattern.cpp(85): warning C4715: BinaryOperation::evaluate: значение возвращается не при всех путях выполнения
+  pattern.vcxproj -> C:\Users\lerus\Documents\студент\3 курс\курсовая и трпо\трпо\pattern\pattern\x64\Debug\pattern.exe
